@@ -50,7 +50,7 @@ pause
 ![Command-Prompt-Window](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Command-Prompt-Activate.jpg)
 
 ## Method 2: Activate Microsoft Office 2021 using Batch File
-**Step 1:** Right-click the Activator.bat file, then select Run as administrator (You can find it in the Office2021 zip file).
+**Step 1:** Right-click the Activator.bat file, then select Run as administrator (You can find it in the Office2021 folder).
 
 ![Run Batch file](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Activator-Batch.jpg)
 
